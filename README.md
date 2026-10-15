@@ -21,16 +21,21 @@ I'm a final-year Software Engineering student at the **Faculty of Sciences of Tu
 - 🧠 Interested in backend architecture, AI agents, and reliable software.
 - 🤝 Open to internships and collaborations in full-stack development and AI.
 
-### Technologies I work with
+<h3 align="center">Technologies I work with</h3>
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Java, Python, JavaScript, C++ |
-| Backend | Spring Boot, FastAPI, Node.js, Express.js, JPA/Hibernate |
-| Frontend | React, Angular, Streamlit |
-| Data & messaging | PostgreSQL, MySQL, MongoDB, Qdrant, Apache Kafka, Apache Airflow |
-| AI | LangChain, LangGraph, RAG, LLMs, embeddings, GitHub MCP |
-| DevOps & cloud | Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Prometheus, Grafana |
+<table align="center">
+  <thead>
+    <tr><th align="center">Area</th><th align="center">Technologies</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">Languages</td><td align="center">Java, Python, JavaScript, C++</td></tr>
+    <tr><td align="center">Backend</td><td align="center">Spring Boot, FastAPI, Node.js, Express.js, JPA/Hibernate</td></tr>
+    <tr><td align="center">Frontend</td><td align="center">React, Angular, Streamlit</td></tr>
+    <tr><td align="center">Data &amp; messaging</td><td align="center">PostgreSQL, MySQL, MongoDB, Qdrant, Apache Kafka, Apache Airflow</td></tr>
+    <tr><td align="center">AI</td><td align="center">LangChain, LangGraph, RAG, LLMs, embeddings, GitHub MCP</td></tr>
+    <tr><td align="center">DevOps &amp; cloud</td><td align="center">Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Prometheus, Grafana</td></tr>
+  </tbody>
+</table>
 
 ### Selected projects
 
