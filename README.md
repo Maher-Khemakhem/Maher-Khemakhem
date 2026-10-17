@@ -2,9 +2,9 @@
 
 # Hi, I'm Maher Khemakhem 👋
 
-**Software Engineering Student · Full-Stack Developer · AI & RAG**
+**Software Engineering Student · Full-Stack Developer · AI & RAG · DevOps**
 
-Building useful applications, exploring intelligent systems, and solving challenging problems.
+Building useful applications, exploring intelligent systems, and shipping them reliably.
 
 [LinkedIn](https://www.linkedin.com/in/maher-khemakhem/) · [Email](mailto:maher.khemakhem@etudiant-fst.utm.tn) · [Codeforces](https://codeforces.com/profile/Maher_Khemakhem)
 
@@ -14,12 +14,13 @@ Building useful applications, exploring intelligent systems, and solving challen
 
 ### About me
 
-I'm a final-year Software Engineering student at the **Faculty of Sciences of Tunis (FST)**, based in **Sfax, Tunisia**. I build full-stack applications with **Spring Boot, FastAPI, and React**, and integrate AI features using **retrieval-augmented generation (RAG)** and **multi-agent systems**.
+I'm a final-year Software Engineering student at the **Faculty of Sciences of Tunis (FST)**, based in **Sfax, Tunisia**. I build full-stack applications with **Spring Boot, FastAPI, and React**, integrate AI features using **retrieval-augmented generation (RAG)** and **multi-agent systems**, and care about getting software into containers, pipelines, and the cloud in a repeatable way.
 
 - 🎓 Working toward my engineering degree, with graduation expected in **2027**.
 - 💼 Internship experience at **TELNET**, **Talan**, and **AllSoftMultimedia**.
 - 🧠 Interested in backend architecture, AI agents, and reliable software.
-- 🤝 Open to internships and collaborations in full-stack development and AI.
+- ⚙️ Focused on DevOps: containerization, CI/CD, Kubernetes, cloud infrastructure, and monitoring.
+- 🤝 Open to internships and collaborations in full-stack development, AI, and DevOps.
 
 <h3 align="center">Technologies I work with</h3>
 
@@ -28,14 +29,22 @@ I'm a final-year Software Engineering student at the **Faculty of Sciences of Tu
     <tr><th align="center">Area</th><th align="center">Technologies</th></tr>
   </thead>
   <tbody>
-    <tr><td align="center">Languages</td><td align="center">Java, Python, JavaScript, C++</td></tr>
+    <tr><td align="center">Languages</td><td align="center">Java, Python, JavaScript, C++, Bash</td></tr>
     <tr><td align="center">Backend</td><td align="center">Spring Boot, FastAPI, Node.js, Express.js, JPA/Hibernate</td></tr>
     <tr><td align="center">Frontend</td><td align="center">React, Angular, Streamlit</td></tr>
     <tr><td align="center">Data &amp; messaging</td><td align="center">PostgreSQL, MySQL, MongoDB, Qdrant, Apache Kafka, Apache Airflow</td></tr>
     <tr><td align="center">AI</td><td align="center">LangChain, LangGraph, RAG, LLMs, embeddings, GitHub MCP</td></tr>
-    <tr><td align="center">DevOps &amp; cloud</td><td align="center">Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Prometheus, Grafana</td></tr>
+    <tr><td align="center">DevOps &amp; cloud</td><td align="center">Docker, Kubernetes, Jenkins, GitHub Actions, AWS (VPC, EC2, RDS, ECS), Prometheus, Grafana, CloudWatch</td></tr>
   </tbody>
 </table>
+
+### DevOps & infrastructure
+
+- **Containerization:** Dockerized services and multi-service deployments, orchestrated with **Kubernetes**.
+- **CI/CD:** Automated build, test, and deploy pipelines with **GitHub Actions** and **Jenkins**.
+- **Cloud architecture:** Designed a three-tier AWS setup with VPC networking, EC2 Auto Scaling, managed databases, load balancing, and ECS containers.
+- **Observability:** Monitoring and dashboards with **Prometheus**, **Grafana**, and **CloudWatch**.
+- **Data pipelines:** Scheduled and orchestrated ETL workflows with **Apache Airflow**, and event-driven messaging with **Apache Kafka**.
 
 ### Selected projects
 
@@ -44,7 +53,7 @@ A platform connecting supermarket operations, point of sale, and an online store
 `Spring Boot` `React` `PostgreSQL` `Docker` `Kubernetes`
 
 **🤖 Reviewer AI Agent**  
-A multi-agent code reviewer for GitHub pull requests and local projects. Five specialists examine correctness, security, test coverage, performance, and syntax, then verify findings and generate fixes.  
+A multi-agent code reviewer for GitHub pull requests and local projects. Five specialists examine correctness, security, test coverage, performance, and syntax, then verify findings and generate fixes. Runs as part of a GitHub Actions workflow.  
 `LangGraph` `GitHub MCP` `GitHub Actions`
 
 **🎓 University Clubs Management Platform**  
